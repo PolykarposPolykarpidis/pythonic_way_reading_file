@@ -1,0 +1,13 @@
+INFO  : 
+INFO  : Query Execution Summary
+INFO  : ----------------------------------------------------------------------------------------------
+INFO  : OPERATION                            DURATION
+INFO  : ----------------------------------------------------------------------------------------------
+INFO  : Compile Query                           7.43s
+INFO  : Prepare Plan                            8.69s
+INFO  : Get Query Coordinator (AM)              0.00s
+INFO  : Submit Plan                             0.48s
+INFO  : Start DAG                               1.45s
+INFO  : Run DAG                                80.54s
+INFO  : ----------------------------------------------------------------------------------------------
+INFO  : 
