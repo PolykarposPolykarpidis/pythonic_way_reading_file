@@ -1,3 +1,6 @@
+# Name: Polykarpos Polykarpidis
+# Licence: MIT License (for more information see the LICENCE file in the rero)
+
 def read_a_line_from_file(path):
     file_obj = open(path, "r")
     file_obj_iter = iter(file_obj)
