@@ -16,6 +16,7 @@ def main_function(filepath):
 
 
 if '__main__' == __name__:
+    # Lets see an example. 
     filepath = 'file.txt'
     main_function(filepath)
     
